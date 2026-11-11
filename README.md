@@ -96,7 +96,12 @@ JSON 형식을 사용하여 게임 데이터를 저장하고 불러옵니다.
 - 종료
 ![quiz_terminate](./screenshot/quiz_terminate.png)
 ---
-3. **get log --oneline --graph**
+3. **clone & pull 결과 스크린샷**
+![clone1](./screenshot/clone1.png)
+![clone2](./screenshot/clone2.png)
+![clone3](./screenshot/clone3.png)
+---
+4. **get log --oneline --graph**
 ![commits](./screenshot/commits.png)
 
 ## 8. 과제 목표 및 학습 개념 정리
